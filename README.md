@@ -2,7 +2,8 @@
 
 ## 📊 Overall Statistics
 - **Total Problems Solved:** 18
-- **Progress:** 18/300 (6%)
+- **Target:** 150-180
+- **Progress:** 18/150 (12%)
 - **Languages:** Python (14), SQL (2)
 
 ## 🎯 Difficulty Breakdown
@@ -37,9 +38,18 @@ LeetCode-Solutions/
 └── TwoPointers/         (3 problems)
 ```
 
-## 🎯 Next Topics to Explore
-- Hashing (0/20)
-- Dynamic Programming (0/?)
-- Graphs (0/?)
-- Trees (0/?)
-- Heaps (0/?)
+## 🎯 Priority Topics
+
+### 🔴 High Priority (Do Next)
+1. **Trees & Graphs** - 20-25 problems
+2. **Dynamic Programming** - 15-20 problems
+3. **Hashing/Maps** - 10-12 problems
+
+### 🟡 Medium Priority
+4. **Expand Arrays** - Target 15-20 total
+5. **Expand Strings** - Target 12-15 total
+6. **Heaps** - 5-8 problems
+
+### 🟢 Lower Priority (After Core)
+7. **Greedy & Sorting** - 10-15 problems
+8. **Stacks & Queues** - 8-10 problems
