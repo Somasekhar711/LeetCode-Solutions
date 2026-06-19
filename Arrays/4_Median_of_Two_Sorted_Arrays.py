@@ -42,3 +42,7 @@ class Solution(object):
             median = float(arr[total_size // 2])
 
         return median
+
+# Approach: Merge and Sort
+# Time Complexity: O(m + n) - Merge two sorted arrays
+# Space Complexity: O(m + n) - New array of combined size

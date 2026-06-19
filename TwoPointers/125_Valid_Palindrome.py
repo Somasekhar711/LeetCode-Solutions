@@ -13,4 +13,8 @@ class Solution(object):
                 end-=1
             else:
                 return False
-        return True        
+        return True
+
+# Approach: Two Pointers with Alphanumeric Filtering
+# Time Complexity: O(n) - Build filtered string (n), then two pointer check (n/2)
+# Space Complexity: O(n) - Store filtered string

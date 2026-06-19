@@ -7,4 +7,7 @@ class Solution(object):
             profit=price-minprice
             maxprofit=max(maxprofit,profit)
         return maxprofit
-        
+
+# Approach: Single Pass with Min Tracking
+# Time Complexity: O(n) - Single pass through prices
+# Space Complexity: O(1) - Only using constant extra space

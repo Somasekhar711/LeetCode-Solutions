@@ -37,8 +37,10 @@ class Solution(object):
             ans = ans / 10
         return answer.next
 
+# Approach: Convert to integers, add, convert back to linked list
+# Time Complexity: O(m + n) - Traverse both lists to convert, then add
+# Space Complexity: O(max(m, n)) - Result list has maximum length
 
 
-        
         
         

@@ -36,3 +36,7 @@ class Solution(object):
                 right += 1
 
         return s[start:end + 1]
+
+# Approach: Expand Around Centers (Odd and Even Length)
+# Time Complexity: O(n^2) - For each center, expand outward up to n characters
+# Space Complexity: O(1) - Only using pointers and variables

@@ -14,3 +14,7 @@ class Solution(object):
             current=temp
         head=prev
         return head
+
+# Approach: Iterative Reversal (Three Pointers)
+# Time Complexity: O(n) - Single pass through the list
+# Space Complexity: O(1) - Only using three pointer variables

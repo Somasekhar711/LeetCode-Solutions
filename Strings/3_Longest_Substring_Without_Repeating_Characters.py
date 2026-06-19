@@ -16,3 +16,7 @@ class Solution(object):
                 maxLen = currentLen
 
         return maxLen
+
+# Approach: Sliding Window with Set
+# Time Complexity: O(n) - Each character visited at most twice (left and right pointers)
+# Space Complexity: O(min(n, 26)) - Set stores at most 26 unique characters (ASCII alphabet)

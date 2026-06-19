@@ -29,3 +29,7 @@ class Solution(object):
             return True
         else:
             return False
+
+# Approach: Stack with Character Matching
+# Time Complexity: O(n) - Single pass through string
+# Space Complexity: O(n) - Stack can contain up to n/2 opening brackets

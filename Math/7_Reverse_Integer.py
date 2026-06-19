@@ -19,3 +19,7 @@ class Solution(object):
 
         return rx
         
+
+# Approach: Extract digits and reverse mathematically
+# Time Complexity: O(log x) - Number of digits in x
+# Space Complexity: O(1) - Only using constant extra space

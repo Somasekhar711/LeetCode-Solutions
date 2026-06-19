@@ -15,3 +15,7 @@ class Solution(object):
             elif current>target:
                 high-=1
         return ans
+
+# Approach: Two Pointers on Sorted Array
+# Time Complexity: O(n) - Two pointers traverse array once
+# Space Complexity: O(1) - Only storing result indices

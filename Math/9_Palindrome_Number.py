@@ -14,3 +14,7 @@ class Solution(object):
             temp //= 10
 
         return rx == x
+
+# Approach: Extract digits and reverse, then compare
+# Time Complexity: O(log x) - Number of digits in x
+# Space Complexity: O(1) - Only using constant extra space

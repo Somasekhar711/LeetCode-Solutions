@@ -19,3 +19,7 @@ class Solution(object):
                 i += 1
 
         return False
+
+# Approach: Sliding Window with Counter
+# Time Complexity: O(n^2) - Nested loops for checking windows
+# Space Complexity: O(1) - Only using a counter variable

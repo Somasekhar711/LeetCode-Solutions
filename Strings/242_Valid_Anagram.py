@@ -22,3 +22,7 @@ class Solution(object):
                 return False
 
         return True
+
+# Approach: Hash Map Frequency Counting
+# Time Complexity: O(n) - Two passes through strings, s first then t
+# Space Complexity: O(1) - Hash map stores at most 26 characters (alphabet)

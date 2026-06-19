@@ -17,3 +17,7 @@ class Solution(object):
                 right -= 1
 
         return max_val
+
+# Approach: Two Pointers (Greedy)
+# Time Complexity: O(n) - Single pass with two pointers moving inward
+# Space Complexity: O(1) - Only using constant extra space

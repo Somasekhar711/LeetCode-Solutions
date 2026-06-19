@@ -48,3 +48,7 @@ class Solution(object):
             i = -2147483648
 
         return i
+
+# Approach: State Machine with Input Validation
+# Time Complexity: O(n) - Single pass through input string
+# Space Complexity: O(1) - Only using constant extra space for variables
