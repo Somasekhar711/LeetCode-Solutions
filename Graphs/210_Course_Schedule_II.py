@@ -21,6 +21,6 @@ class Solution(object):
         if len(order)!=numCourses:
             return []
         return order
-# Approach: Use Kahn's algorithm for topological sort / BFS on indegree-zero nodes to find a valid course order.
+# Approach: Use Kahn's algorithm for topological sort / BFS on indegree-zero nodes to find a valid course order
 # Time Complexity: O(V + E) where V is numCourses and E is prerequisites length
-# Space Complexity: O(V + E) for the graph and indegree structures.
+# Space Complexity: O(V + E) for the graph and indegree structures

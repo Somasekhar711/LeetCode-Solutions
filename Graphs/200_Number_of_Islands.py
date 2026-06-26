@@ -35,7 +35,7 @@ class Solution(object):
         return islands
 
 
-# Approach: Use union-find to merge adjacent land cells and count connected island components.
-# Time Complexity: O(m * n * α(m * n)) where α is the inverse Ackermann function.
-# Space Complexity: O(m * n) for the parent array.
+# Approach: Use union-find to merge adjacent land cells and count connected island components
+# Time Complexity: O(m * n * alpha(m * n)) where alpha is the inverse Ackermann function
+# Space Complexity: O(m * n) for the parent array
         
