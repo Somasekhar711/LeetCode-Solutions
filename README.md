@@ -1,16 +1,16 @@
 # LeetCode Solutions
 
 ## 📊 Overall Statistics
-- **Total Problems Solved:** 31
+- **Total Problems Solved:** 32
 - **Target:** 150-180
-- **Progress:** 31/150 (20.7%)
-- **Languages:** Python (27), SQL (2)
+- **Progress:** 32/150 (21.3%)
+- **Languages:** Python (28), SQL (2)
 
 ## 🎯 Difficulty Breakdown
 | Difficulty | Count | Percentage |
 |-----------|-------|-----------|
-| 🟢 **Easy** | 14 | 45% |
-| 🟡 **Medium** | 16 | 52% |
+| 🟢 **Easy** | 14 | 44% |
+| 🟡 **Medium** | 17 | 53% |
 | 🔴 **Hard** | 1 | 3% |
 
 ## 📈 Problem Breakdown by Category
@@ -26,8 +26,8 @@
 | **Stacks** | 1 | 1 | 0 | 0 |
 | **Trees** | 5 | 4 | 1 | 0 |
 | **Dynamic Programming** | 2 | 1 | 1 | 0 |
-| **Graphs** | 6 | 0 | 6 | 0 |
-| **Total** | **31** | **14** | **16** | **1** |
+| **Graphs** | 7 | 0 | 7 | 0 |
+| **Total** | **32** | **14** | **17** | **1** |
 
 ## 📁 Directory Structure
 ```
@@ -38,7 +38,7 @@ LeetCode-Solutions/
 ├── SQL/                 (2 problems)
 ├── Stacks/              (1 problem)
 ├── Strings/             (4 problems)
-├── Graphs/              (6 problems)
+├── Graphs/              (7 problems)
 ├── DynamicProgramming/  (2 problems)
 ├── TwoPointers/         (3 problems)
 └── Trees/               (5 problems)
