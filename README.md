@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
 ## 📊 Overall Statistics
-- **Total Problems Solved:** 42
+- **Total Problems Solved:** 43
 - **Target:** 150-180
-- **Progress:** 42/150 (28.0%)
-- **Languages:** Python (40), SQL (2)
+- **Progress:** 43/150 (28.7%)
+- **Languages:** Python (41), SQL (2)
 
 ## 🎯 Difficulty Breakdown
 | Difficulty | Count | Percentage |
@@ -24,10 +24,10 @@
 | **Math** | 2 | 1 | 1 | 0 |
 | **SQL** | 2 | 2 | 0 | 0 |
 | **Stacks** | 1 | 1 | 0 | 0 |
-| **Trees** | 10 | 6 | 4 | 0 |
+| **Trees** | 11 | 6 | 5 | 0 |
 | **Dynamic Programming** | 4 | 1 | 3 | 0 |
 | **Graphs** | 7 | 0 | 7 | 0 |
-| **Total** | **42** | **17** | **23** | **1** |
+| **Total** | **43** | **17** | **24** | **1** |
 
 ## 📁 Directory Structure
 ```
@@ -41,7 +41,7 @@ LeetCode-Solutions/
 ├── Graphs/              (7 problems)
 ├── DynamicProgramming/  (4 problems)
 ├── TwoPointers/         (3 problems)
-└── Trees/               (9 problems)
+└── Trees/               (10 problems)
 ```
 
 ## 🎯 Priority Topics
