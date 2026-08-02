@@ -1,22 +1,22 @@
 # LeetCode Solutions
 
 ## 📊 Overall Statistics
-- **Repo Problems:** 47
+- **Repo Problems:** 48
 - **Target:** 150-180
-- **Progress:** 47/150 (31.3%)
-- **Languages:** Python (45), SQL (2)
+- **Progress:** 48/150 (32.0%)
+- **Languages:** Python (46), SQL (2)
 
 ## 🎯 Difficulty Breakdown
 | Difficulty | Count | Percentage |
 |-----------|-------|-----------|
-| 🟢 **Easy** | 16 | 35% |
-| 🟡 **Medium** | 26 | 57% |
+| 🟢 **Easy** | 17 | 35% |
+| 🟡 **Medium** | 26 | 54% |
 | 🔴 **Hard** | 4 | 8% |
 
 | Category | Count | Easy | Medium | Hard |
 |----------|-------|------|--------|------|
 | **Arrays** | 6 | 3 | 2 | 1 |
-| **Strings** | 7 | 2 | 5 | 0 |
+| **Strings** | 8 | 3 | 5 | 0 |
 | **Two Pointers** | 3 | 1 | 2 | 0 |
 | **Linked Lists** | 2 | 1 | 1 | 0 |
 | **Math** | 2 | 1 | 1 | 0 |
