@@ -1,20 +1,17 @@
 # LeetCode Solutions
 
 ## 📊 Overall Statistics
-- **Repo Problems:** 45
-- **LeetCode Solved:** 45 — [LeetCode Profile](https://leetcode.com/u/Somasekhar711/)
+- **Repo Problems:** 46
 - **Target:** 150-180
-- **Progress:** 45/150 (30.0%)
-- **Languages:** Python (43), SQL (2)
+- **Progress:** 46/150 (30.7%)
+- **Languages:** Python (44), SQL (2)
 
 ## 🎯 Difficulty Breakdown
 | Difficulty | Count | Percentage |
 |-----------|-------|-----------|
-| 🟢 **Easy** | 16 | 36% |
-| 🟡 **Medium** | 25 | 56% |
-| 🔴 **Hard** | 4 | 9% |
-
-## 📈 Problem Breakdown by Category
+| 🟢 **Easy** | 16 | 35% |
+| 🟡 **Medium** | 26 | 57% |
+| 🔴 **Hard** | 4 | 8% |
 
 | Category | Count | Easy | Medium | Hard |
 |----------|-------|------|--------|------|
@@ -27,8 +24,8 @@
 | **Stacks** | 1 | 1 | 0 | 0 |
 | **Trees** | 11 | 6 | 5 | 0 |
 | **Dynamic Programming** | 5 | 1 | 4 | 0 |
-| **Graphs** | 7 | 0 | 7 | 0 |
-| **Total** | **45** | **16** | **25** | **4** |
+| **Graphs** | 8 | 0 | 8 | 0 |
+| **Total** | **46** | **16** | **26** | **4** |
 
 ## 📁 Directory Structure
 ```
@@ -39,7 +36,7 @@ LeetCode-Solutions/
 ├── SQL/                 (2 problems)
 ├── Stacks/              (1 problem)
 ├── Strings/             (6 problems)
-├── Graphs/              (7 problems)
+├── Graphs/              (8 problems)
 ├── DynamicProgramming/  (5 problems)
 ├── TwoPointers/         (3 problems)
 └── Trees/               (11 problems)
